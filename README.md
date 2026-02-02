@@ -1,2 +1,2 @@
-# Web-Technology---JP
-HTML &amp; CSS Practicals
+# Cloud_2_git
+git commands Practical
